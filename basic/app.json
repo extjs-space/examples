@@ -249,7 +249,7 @@
      *
      */
     "output": {
-        "base": "${workspace.build.dir}/${build.environment}/${app.name}"
+        "base": "${app.dir}/build/${build.environment}"
     },
 
     /**
